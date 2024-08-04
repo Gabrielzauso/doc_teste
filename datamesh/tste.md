@@ -4,7 +4,7 @@
 
 Encontrei o seguinte erro ao tentar executar o processo XYZ.
 
-![Erro 1](C:\Users\giova\doc_teste\erro1.png)
+![Erro 1](../erro1.png)
 
 ## Solução
 
